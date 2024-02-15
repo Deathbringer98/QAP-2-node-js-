@@ -1,0 +1,73 @@
+Route accessed: /
+Home page requested
+File read successfully: C:\Users\jacka\OneDrive\Desktop\QAP2_Node_JS-main\views\index.html
+Route accessed: /favicon.ico
+Home page requested
+Error reading file: Error: ENOENT: no such file or directory, open 'C:\Users\jacka\OneDrive\Desktop\QAP2_Node_JS-main\views\favicon.ico.html'
+Error: ENOENT: no such file or directory, open 'C:\Users\jacka\OneDrive\Desktop\QAP2_Node_JS-main\views\favicon.ico.html'
+Route accessed: /
+Home page requested
+File read successfully: C:\Users\jacka\OneDrive\Desktop\QAP2_Node_JS-main\views\index.html
+Route accessed: /about
+About page requested
+File read successfully: C:\Users\jacka\OneDrive\Desktop\QAP2_Node_JS-main\views\about.html
+Route accessed: /products
+Products page requested
+File read successfully: C:\Users\jacka\OneDrive\Desktop\QAP2_Node_JS-main\views\products.html
+Route accessed: /subscribe
+Subscribe page requested
+File read successfully: C:\Users\jacka\OneDrive\Desktop\QAP2_Node_JS-main\views\subscribe.html
+Route accessed: /contact
+Contact page requested
+File read successfully: C:\Users\jacka\OneDrive\Desktop\QAP2_Node_JS-main\views\contact.html
+Route accessed: /
+Home page requested
+File read successfully: C:\Users\jacka\OneDrive\Desktop\QAP2_Node_JS-main\views\index.html
+Route accessed: /about
+About page requested
+File read successfully: C:\Users\jacka\OneDrive\Desktop\QAP2_Node_JS-main\views\about.html
+Route accessed: /products
+Products page requested
+File read successfully: C:\Users\jacka\OneDrive\Desktop\QAP2_Node_JS-main\views\products.html
+Route accessed: /subscribe
+Subscribe page requested
+File read successfully: C:\Users\jacka\OneDrive\Desktop\QAP2_Node_JS-main\views\subscribe.html
+Route accessed: /contact
+Contact page requested
+File read successfully: C:\Users\jacka\OneDrive\Desktop\QAP2_Node_JS-main\views\contact.html
+Route accessed: /
+Home page requested
+File read successfully: C:\Users\jacka\OneDrive\Desktop\QAP2_Node_JS-main\views\index.html
+Route accessed: /subscribe
+Subscribe page requested
+File read successfully: C:\Users\jacka\OneDrive\Desktop\QAP2_Node_JS-main\views\subscribe.html
+Route accessed: /contact
+Contact page requested
+File read successfully: C:\Users\jacka\OneDrive\Desktop\QAP2_Node_JS-main\views\contact.html
+Route accessed: /about
+About page requested
+File read successfully: C:\Users\jacka\OneDrive\Desktop\QAP2_Node_JS-main\views\about.html
+Route accessed: /about
+About page requested
+File read successfully: C:\Users\jacka\OneDrive\Desktop\QAP2_Node_JS-main\views\about.html
+Route accessed: /
+Home page requested
+File read successfully: C:\Users\jacka\OneDrive\Desktop\QAP2_Node_JS-main\views\index.html
+Route accessed: /about
+About page requested
+File read successfully: C:\Users\jacka\OneDrive\Desktop\QAP2_Node_JS-main\views\about.html
+Route accessed: /products
+Products page requested
+File read successfully: C:\Users\jacka\OneDrive\Desktop\QAP2_Node_JS-main\views\products.html
+Route accessed: /subscribe
+Subscribe page requested
+File read successfully: C:\Users\jacka\OneDrive\Desktop\QAP2_Node_JS-main\views\subscribe.html
+Route accessed: /contact
+Contact page requested
+File read successfully: C:\Users\jacka\OneDrive\Desktop\QAP2_Node_JS-main\views\contact.html
+Route accessed: /products
+Products page requested
+File read successfully: C:\Users\jacka\OneDrive\Desktop\QAP2_Node_JS-main\views\products.html
+Route accessed: /products
+Products page requested
+File read successfully: C:\Users\jacka\OneDrive\Desktop\QAP2_Node_JS-main\views\products.html
